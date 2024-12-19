@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkheroesofstorm"]=self["webpackChunkheroesofstorm"]||[]).push([[594],{5282:function(e,n,r){r.r(n),r.d(n,{default:function(){return f}});var s=r(6768);const t={class:"about"};function u(e,n){return(0,s.uX)(),(0,s.CE)("div",t,n[0]||(n[0]=[(0,s.Lk)("h1",null,"This is an about page",-1)]))}var o=r(1241);const a={},c=(0,o.A)(a,[["render",u]]);var f=c}}]);
+//# sourceMappingURL=about.df388ee0.js.map
